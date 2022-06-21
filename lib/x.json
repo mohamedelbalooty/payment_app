@@ -1,0 +1,26 @@
+{
+  "auth_token":  "ZXlKaGlPaUpJVXpVeE1pSX1Y0NJmV5Sn...",
+  "delivery_needed": "false",
+  "items": [
+    {
+      "name": "ASC1515",
+      "amount_cents": "500000",
+      "description": "Smart Watch",
+      "quantity": "1"
+    }
+  ],
+  "shipping_data": {
+    "apartment": "803",
+    "email": "claudette09@exa.com",
+    "floor": "42",
+    "first_name": "Clifford",
+    "country": "CR",
+    "last_name": "Nicolas",
+    "state": "Utah"
+  },
+  "shipping_details": {
+    "notes" : " test",
+    "length" : 1,
+    "contents" : "product of some sorts"
+  }
+}

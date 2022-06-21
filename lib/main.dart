@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:payment_app/src/features/payment_feature/presentation_layer/pages/register_page.dart';
 import 'src/injection_container.dart' as di;
 
 void main() async {
@@ -15,6 +16,7 @@ class PaymentApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Payment app',
+      home:  RegisterPage(),
     );
   }
 }

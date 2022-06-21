@@ -1,5 +1,9 @@
-const String authToken = 'authToken';
+const String authTokenKey = 'authToken';
 
-const String orderId = 'orderId';
+const String orderIdKey = 'orderId';
 
-const String paymentToken = 'paymentToken';
+const String cardPaymentTokenKey = 'cardPaymentToken';
+
+const String kioskPaymentTokenKey = 'kioskPaymentToken';
+
+const String paymentReferenceCodeKey = 'kioskPaymentToken';
